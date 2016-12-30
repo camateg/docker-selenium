@@ -7,4 +7,4 @@ Usage:
     git clone https://github.com/camateg/docker-selenium.git
     cd selenium-test
     docker build .
-    docker run run --security-opt seccomp:chrome.json -ti <id>
+    docker run --security-opt seccomp:chrome.json -ti <id>
